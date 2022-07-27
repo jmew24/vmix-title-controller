@@ -1,4 +1,4 @@
-import 'dotenv/config';
+require('dotenv/config');
 const fs = require('fs');
 
 const dbPath = process.env.DB;
