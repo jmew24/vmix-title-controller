@@ -545,11 +545,11 @@ export default {
   gap: 20px;
  } */
 
-::v-deep .nav-item .nav-link {
+::deep .nav-item .nav-link {
   padding: 4px 6px;
 }
 
-::v-deep .tab-btn-dropdown .btn {
+::deep .tab-btn-dropdown .btn {
   padding: 0 4px !important;
 }
 

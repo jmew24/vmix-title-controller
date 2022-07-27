@@ -43,7 +43,7 @@ export default {
 </script>
 
 <style scoped>
-::v-deep .btn {
+::deep .btn {
   padding: 0 6px !important;
 }
 </style>
